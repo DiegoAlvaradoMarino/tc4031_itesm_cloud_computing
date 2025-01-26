@@ -15,12 +15,6 @@ void imprimeArreglo(float *d);
 
 int main()
 {
-	//---- Comprobar rápidamente si OMP esta disponible y funcionando ---- //
-
-# ifdef _OPENMP
-	std::cout << "OMP disponible y funcionando" << std::endl;
-# endif
-
 	//---- Crear los arreglos y asignarles valores ---- //
 
 	std::cout << "Sumando Arreglos en Paralelo!\n";
