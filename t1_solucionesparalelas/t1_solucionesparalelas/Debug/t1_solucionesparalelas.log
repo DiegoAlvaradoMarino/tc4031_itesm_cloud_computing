@@ -1,4 +1,0 @@
-﻿  t1_solucionesparalelas.cpp
-c:\users\diego alvarado\documents\trimestre 4\cloud\t1\t1_solucionesparalelas\t1_solucionesparalelas\t1_solucionesparalelas.cpp(32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-c:\users\diego alvarado\documents\trimestre 4\cloud\t1\t1_solucionesparalelas\t1_solucionesparalelas\t1_solucionesparalelas.cpp(33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-  t1_solucionesparalelas.vcxproj -> C:\Users\Diego Alvarado\Documents\Trimestre 4\Cloud\t1\t1_solucionesparalelas\Debug\t1_solucionesparalelas.exe
