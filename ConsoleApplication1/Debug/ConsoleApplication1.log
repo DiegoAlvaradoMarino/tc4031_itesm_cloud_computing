@@ -1,4 +1,0 @@
-﻿  ConsoleApplication1.cpp
-c:\users\diego alvarado\documents\trimestre 4\cloud\t1\consoleapplication1\consoleapplication1.cpp(32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-c:\users\diego alvarado\documents\trimestre 4\cloud\t1\consoleapplication1\consoleapplication1.cpp(33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-  ConsoleApplication1.vcxproj -> C:\Users\Diego Alvarado\Documents\Trimestre 4\Cloud\t1\ConsoleApplication1\Debug\ConsoleApplication1.exe
