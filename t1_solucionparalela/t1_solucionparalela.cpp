@@ -30,7 +30,7 @@ int main()
 
 	//---- Crear un for paralelo con OpenMP ----//
 
-#pragma omp parallel for \
+	#pragma omp parallel for \
 	shared(a,b,c,pedazos) private(i) \
 	schedule(static, pedazos)
 
